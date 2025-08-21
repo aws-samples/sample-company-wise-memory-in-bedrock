@@ -2,7 +2,7 @@
 
 A graph memory system that uses knowledge graphs to capture, store, and retrieve contextual information from user conversations. The system extracts entities and relationships from conversations, stores them in Amazon Neptune graph database and Amazon OpenSearch with user isolation, and provides MCP (Model Context Protocol) integration for agent orchestration.
 
-## Architect
+## Architecture
 
 ![Architecture](./assets/architecture.png)
 
