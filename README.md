@@ -4,9 +4,7 @@ A graph memory system that uses knowledge graphs to capture, store, and retrieve
 
 ## Architect
 
-```markdown
 ![Architecture](assets/architecture.png)
-```
 
 ## Features
 
